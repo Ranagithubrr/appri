@@ -1,0 +1,310 @@
+@media screen and (max-width:1080px) {
+    #nav-bar .right ul .sign-in a {
+        padding: 5px 25px;
+    }
+    #nav-bar .right ul li {
+        padding: 0 5px;
+    }
+    #pricing .top h2 {
+        padding-top: 40px;
+    }
+    #subscribe .subs .input-div {
+        margin-left: 15px;
+    }
+    #subscribe .subs .input-div .sub {
+        width: 28%;
+    }
+    #work .last .right img, #work .bottom .left img {
+        padding-top: 6rem;
+    }
+    #main-section .right .mobile {
+        padding-top: 150px;
+        width: 100%;
+    }
+    #main-section .right .img1 {
+        width: 45%;
+        left: 60px;
+        top: 225px;
+    }
+    #main-section .right .img2 {
+        width: 45%;
+        right: -25px;
+        bottom: 60px;
+    }
+    #imgslider {
+        display: none !important;
+    }
+    #imgsliderTab {
+        display: block !important;
+    }
+}
+
+@media screen and (max-width:991px) {
+    /* paddings */
+    #nav-bar, #main-section, #feature, #work, #pricing, #faq, #news, #screenshot {
+        padding: 0 30px;
+    }
+}
+
+@media screen and (max-width:991px) {
+    #main-section .left .circle {
+        top: 40px;
+        right: 20px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    #nav-bar .right ul .sign-in a {
+        padding: 5px 22px;
+    }
+    #main-section .right .mobile {
+        width: 100%;
+        padding-top: 40px;
+        padding-left: 0;
+    }
+    #main-section .right .img1 {
+        width: 50%;
+        left: -10px;
+        top: 136px;
+    }
+    #main-section .right .img2 {
+        width: 50%;
+        right: 0px;
+    }
+    #header-section {
+        padding-bottom: 0;
+    }
+    #main-section .left a {
+        padding: 8px 25px;
+    }
+    #counter .parent {
+        width: 100%;
+    }
+    #counter .parent div {
+        padding: 0 10px;
+    }
+    #feature .top p, #work .top p, #pricing .top p, #screenshot .top p, #faq .top p, #news .top p {
+        width: 100%;
+    }
+    #video .video-area h4 {
+        padding-top: 50px;
+    }
+    #video .video-area .icon-area {
+        top: 35%;
+    }
+    #video .video-area {
+        width: 90%;
+        height: 280px;
+        background-size: cover;
+    }
+    #work {
+        margin-top: 0;
+    }
+    #work .bottom .left img {
+        width: 100%;
+        float: none;
+    }
+    #work .bottom .right div {
+        width: 100%;
+    }
+    #work .last .left div {
+        width: 100%;
+        float: left;
+    }
+    #work .last .right img {
+        width: 100%;
+    }
+    #pricing .card-area .cards {
+        width: 100%;
+        margin: 10px auto;
+    }
+    #testimonial {
+        padding-top: 250px;
+    }
+    #testimonial .top p {
+        width: 80%;
+    }
+    #screenshot .img img {
+        width: 100%;
+    }
+    #faq {
+        margin-top: 20px;
+    }
+    #faq .bottom .left img {
+        width: 100%;
+        float: none;
+    }
+    #clients {
+        margin-top: 20px;
+    }
+    #accordion .card {
+        width: 100%;
+    }
+    #clients .top h4 {
+        width: 95%;
+    }
+    #subscribe {
+        margin-top: 150px;
+    }
+    #subscribe .subs {
+        padding: 30px 20px;
+    }
+    #subscribe .subs h4 {
+        padding-left: 0;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+    }
+    #subscribe .subs .input-div {
+        padding: 8px 2px;
+    }
+    #subscribe .subs .input-div .emails {
+        width: 60%;
+    }
+    #subscribe .subs .input-div .sub {
+        width: 35%;
+    }
+    #subscribe .subs .input-div .sub {
+        width: 35%;
+        padding: 11.5px 0;
+        margin-top: -5.8px;
+        font-size: 9px;
+    }
+    #avaiable img {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width:767px) {
+    #header-section .fixed-nav {
+        width: 100%;
+        padding: 0;
+    }
+    #mybar {
+        display: block;
+        margin-top: -10px;
+    }
+    #nav-bar .right ul {
+        position:fixed;
+        width: 100%;
+        height:17rem;
+        right: 0;
+        left: -200%;
+        top: 58px;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+        z-index: 3;
+        background: #2b2b2b;
+    }
+    #nav-bar .right ul li {
+        display: block;
+        padding: 10px 0;
+    }
+    #imgslider {
+        display: none !important;
+    }
+    #imgsliderTab {
+        display: none !important;
+    }
+    #imgsliderMob {
+        display: block !important;
+    }
+}
+
+@media screen and (max-width:480px) {
+    #nav-bar .left span {
+        display: block;
+        padding-top: 5px;
+    }
+    #subscribe .subs .input-div .sub {
+        width: 35%;
+        padding: 10.5px 0;
+        margin-top: -5.2px;
+        font-size: 9px;
+        margin-right: 1px;
+    }
+    #subscribe {
+        padding: 0 20px;
+    }
+    #news .bottom .main-div .sub-div {
+        margin-top: 150px;
+    }
+    #news .bottom .main-div .sub-div1 {
+        margin-top: 0px;
+    }
+    #work .bottom .right h4, #work .last .left h4 {
+        padding-top: 20px;
+        text-align: center;
+    }
+    #work .bottom .right p, #work .last .left p {
+        text-align: center;
+    }
+    #main-section .left .circle {
+        top: 40px;
+        right: 20px;
+    }
+    #work .bottom .right a, #work .last .left a {
+        display: block;
+        width: 60%;
+        margin: 0 auto;
+        text-align: center
+    }
+    #pricing .card-area .cards {
+        width: 100%;
+    }
+    #clients .bottom .client-slider-area .slides {
+        padding: 0 15px;
+    }
+    #header-section .nav-area {
+        padding-top: 0;
+    }
+    .show{
+        bottom:20px;
+    }
+    #sctop{
+        right:30px;
+    }
+}
+
+@media screen and (max-width:380px) {
+    #work .bottom .right a, #work .last .left a {
+        display: block;
+        width: 75%;
+        margin: 0 auto;
+        text-align: center
+    }
+}
+
+@media screen and (max-width:330px) {
+    #counter .parent div {
+        padding: 0 3px;
+    }
+    #main-section .left a {
+        padding: 8px 15px;
+    }
+    #work .bottom .right a, #work .last .left a {
+        width: 80%;
+    }
+    #pricing .card-area .cards {
+        width: 100%;
+    }
+    #subscribe .subs .input-div .sub {
+        font-size: 8px;
+    }
+    #nav-bar {
+        padding: 0 10px;
+    }
+    #main-section .left h2 {
+        font-size: 32px;
+    }
+    #news .bottom .main-div .sub-div .inner-div span {
+        font-size: 13px;
+    }
+    #news .bottom .main-div .sub-div .inner-div {
+        padding: 10px;
+    }
+    #news .bottom .main-div .sub-div .inner-div h4 {
+        font-size: 16px;
+    }
+}
