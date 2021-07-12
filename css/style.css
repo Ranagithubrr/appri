@@ -7,7 +7,10 @@
 
 
 .container-fluid {
-    /* padding:0; */
+    padding:0;
+}
+body section{
+    overflow:hidden;
 }
 
 #header-section .fixed-nav {
